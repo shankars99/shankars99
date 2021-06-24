@@ -1,5 +1,5 @@
 - Hi, I’m @shankars99
-- I’m interested in ML, BLockchain, and Cloud
+- I’m interested in ML, Blockchain, and Cloud
 - I’m currently working on a Blockchain File Store with Cloud facilities
 
 <!---
