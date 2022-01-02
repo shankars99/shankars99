@@ -1,6 +1,6 @@
 - Hi, I’m @shankars99
 - I’m interested in ML, Blockchain, and Cloud
-- I’m currently working on a Blockchain File Store with Cloud facilities
+- I’m currently working on Blockchain File Storage 
 
 <!---
 shankars99/shankars99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
