@@ -1,6 +1,6 @@
 - Hi, I’m @shankars99
 - I’m interested in ML, Blockchain, and Cloud
-- I’m architected and am the head dev on Blockchain File Storage found @ https://github.com/StorkNet
+- I’m the architect and head dev for https://github.com/StorkNet which is a Decentralized Data Oracle Protocol intended to decouple data from the tightly coupled EVM-Chain architecture to allow for Cross-Chain-Data-Transfers and Reduction of gas fees by making the state-machine aka Ethereum stateless
 
 <!---
 shankars99/shankars99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
